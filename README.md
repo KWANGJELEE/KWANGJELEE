@@ -1,16 +1,19 @@
-👋 안녕하세요, AI와 생명공학을 융합하여 신약 개발을 선도하고자 하는 이광제입니다. 
+👋 안녕하세요, 이광제입니다. 
+- 방대한 데이터를 이용한 인공지능 기술과 생명공학을 융합하여 신약 개발을 선도하여,
+    질병의 근본적인 원인을 빠르고 정확하게 찾아 환자들의 삶의 질을 향상시키는 데 기여하겠습니다.
 
+🎓 
+- 경희대학교 한방제약공학 석사 - 졸업
 
+🌱
+- 코리아 IT 아카데미(강남)에서 AI기반 챗봇 및 OCR 개발 전문가 과정 - 수료
 
- 
-- 👀 방대한 데이터를 이용한 인공지능 기술과 합쳐진 신약 개발을 선도하여, 질병의 근본적인 원인을 빠르고 정확하게 찾아 환자들의 삶의 질을 향상시키는 데 기여하겠습니다.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KWANGJELEE/KWANGJELEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 취미
+- 헬스
+- 런닝
+- 전기자전거
+- 영화
+  
+📫 연락처
+- E-mail: zzcv00@naver.com
+- instagram: https://www.instagram.com/_kjleee_/
