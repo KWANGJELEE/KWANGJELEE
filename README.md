@@ -12,11 +12,6 @@
 - 전기자전거
 - 영화
 
-## 📫 연락처
-- E-mail: zzcv00@naver.com
-- instagram: https://www.instagram.com/_kjleee_/
-
-
 ## 💻 기술 스택
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
@@ -28,6 +23,10 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-E34F26??style=flat-square&logo=Jupyter&logoColor=white"/> 
+
+## 📫 연락처
+- E-mail: zzcv00@naver.com
+- instagram: https://www.instagram.com/_kjleee_/
 
 
 
